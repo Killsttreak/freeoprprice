@@ -1,14 +1,4 @@
-[
-    "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "HWID2",
-    "HWID3",
-    "HWID4",
-    "HWID1",
-    "HWID2",
-    "HWID3",
-    "HWID4",
-    "HWID1",
-    "HWID2",
-    "HWID3",
-    "HWID4"
-]
+{
+    "hwids": ["HWID_1", "HWID_2", "HWID_3"]
+}
+
